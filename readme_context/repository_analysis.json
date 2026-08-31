@@ -1,0 +1,103 @@
+{
+  "repository": "target",
+  "generated_at": "2026-08-31T02:28:03.128530",
+  "analysis": {
+    "svg/mapa_globalv1/library_map.js": {
+      "javascript": {
+        "imports": [],
+        "exports": [],
+        "components": [
+          {
+            "value": "EstiloAcuifero",
+            "line": 95
+          }
+        ],
+        "api_calls": [],
+        "routes": [],
+        "env_vars": []
+      }
+    },
+    "svg/mapa_globalv1/Chile.js": {
+      "javascript": {
+        "imports": [],
+        "exports": [],
+        "components": [],
+        "api_calls": [
+          {
+            "method": "FETCH",
+            "target": "https://jsonplaceholder.typicode.com/users",
+            "line": 143,
+            "file": "svg/mapa_globalv1/Chile.js"
+          }
+        ],
+        "routes": [],
+        "env_vars": []
+      }
+    },
+    "svg/mapa_globalv1/data_inicial.js": {
+      "javascript": {
+        "imports": [],
+        "exports": [],
+        "components": [],
+        "api_calls": [],
+        "routes": [],
+        "env_vars": []
+      }
+    },
+    "svg/mapa_globalv1/script/initial.js": {
+      "javascript": {
+        "imports": [],
+        "exports": [],
+        "components": [],
+        "api_calls": [],
+        "routes": [],
+        "env_vars": []
+      }
+    },
+    "svg/mapa_globalv1/script/library_map2.js": {
+      "javascript": {
+        "imports": [],
+        "exports": [],
+        "components": [
+          {
+            "value": "EstiloAcuifero",
+            "line": 86
+          }
+        ],
+        "api_calls": [],
+        "routes": [],
+        "env_vars": []
+      }
+    },
+    "svg/mapa_globalv1/data/colores.js": {
+      "javascript": {
+        "imports": [],
+        "exports": [],
+        "components": [],
+        "api_calls": [],
+        "routes": [],
+        "env_vars": []
+      }
+    },
+    "svg/mapa_globalv1/data/iconos.js": {
+      "javascript": {
+        "imports": [],
+        "exports": [],
+        "components": [],
+        "api_calls": [],
+        "routes": [],
+        "env_vars": []
+      }
+    },
+    "Geo/1.js": {
+      "javascript": {
+        "imports": [],
+        "exports": [],
+        "components": [],
+        "api_calls": [],
+        "routes": [],
+        "env_vars": []
+      }
+    }
+  }
+}
